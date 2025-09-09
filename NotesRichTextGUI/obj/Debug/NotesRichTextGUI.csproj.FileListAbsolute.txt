@@ -1,0 +1,9 @@
+C:\Users\a.razi\source\repos\NotesRichTextGUI\NotesRichTextGUI\bin\Debug\NotesRichTextGUI.exe.config
+C:\Users\a.razi\source\repos\NotesRichTextGUI\NotesRichTextGUI\bin\Debug\NotesRichTextGUI.exe
+C:\Users\a.razi\source\repos\NotesRichTextGUI\NotesRichTextGUI\bin\Debug\NotesRichTextGUI.pdb
+C:\Users\a.razi\source\repos\NotesRichTextGUI\NotesRichTextGUI\obj\Debug\NotesRichTextGUI.csproj.AssemblyReference.cache
+C:\Users\a.razi\source\repos\NotesRichTextGUI\NotesRichTextGUI\obj\Debug\NotesRichTextGUI.Properties.Resources.resources
+C:\Users\a.razi\source\repos\NotesRichTextGUI\NotesRichTextGUI\obj\Debug\NotesRichTextGUI.csproj.GenerateResource.cache
+C:\Users\a.razi\source\repos\NotesRichTextGUI\NotesRichTextGUI\obj\Debug\NotesRichTextGUI.csproj.CoreCompileInputs.cache
+C:\Users\a.razi\source\repos\NotesRichTextGUI\NotesRichTextGUI\obj\Debug\NotesRichTextGUI.exe
+C:\Users\a.razi\source\repos\NotesRichTextGUI\NotesRichTextGUI\obj\Debug\NotesRichTextGUI.pdb
