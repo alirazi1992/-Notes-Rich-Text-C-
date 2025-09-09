@@ -9,11 +9,6 @@ A lightweight **rich text editor** with basic formatting and file I/O.
 - **Bulleted lists** and **Clear formatting**
 - Unsaved-changes prompt, status bar with char count
 
-## Run
-```bash
-dotnet build
-# or open the .sln in Visual Studio and F5
-
 ---
 
 #### 📸 Screenshots
